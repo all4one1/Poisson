@@ -12,5 +12,8 @@ int main()
     const int b[arraySize] = { 10, 20, 30, 40, 50 };
 
 
+
+	double a = 1;
+
     return 0;
 }
