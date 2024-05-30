@@ -14,6 +14,6 @@ int main()
 
 
 	double a = 1;
-	double b = 2;
+
     return 0;
 }
